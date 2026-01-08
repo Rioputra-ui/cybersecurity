@@ -250,7 +250,7 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 <img width="1920" height="1080" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/29855eba-f327-494e-ac75-29f1c9f97ec6" />
 <img width="1920" height="1080" alt="Screenshot (188)" src="https://github.com/user-attachments/assets/5b3ec6fb-af90-4f1b-b78a-b17b992a3f13" />
 
-report hotedscand 
+report hotedscand :owasp zap hostedscan report.pdf iyoo.pdf
 scanner output 
 
 
