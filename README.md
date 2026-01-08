@@ -243,3 +243,5 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 * Setelah latihan, praktikkan perbaikan pada `secure_login.php` dan migrasikan password ke hash.
 
 ---
+# Hasil asesmen
+
